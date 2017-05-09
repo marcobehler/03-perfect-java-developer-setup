@@ -1,0 +1,7 @@
+## GIT Config
+
+http://stackoverflow.com/questions/6515582/what-should-go-in-a-default-git-config-file
+
+## Mercurial Config
+
+https://gist.github.com/toomasr/142ffc6c206430a9e6fe
